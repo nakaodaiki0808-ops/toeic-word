@@ -1162,5 +1162,401 @@
     "word": "attire",
     "meaning": "服装",
     "level": 6
+  },
+  {
+    "id": 3047,
+    "word": "enroll",
+    "meaning": "登録する",
+    "level": 6
+  },
+  {
+    "id": 3048,
+    "word": "back",
+    "meaning": "背中",
+    "level": 6
+  },
+  {
+    "id": 3049,
+    "word": "exclusive",
+    "meaning": "専用の",
+    "level": 6
+  },
+  {
+    "id": 3050,
+    "word": "handheld",
+    "meaning": "手で持てる",
+    "level": 6
+  },
+  {
+    "id": 3051,
+    "word": "signal+B203",
+    "meaning": "信号",
+    "level": 6
+  },
+  {
+    "id": 3052,
+    "word": "rise to",
+    "meaning": " に立ち向かう",
+    "level": 6
+  },
+  {
+    "id": 3053,
+    "word": "platter",
+    "meaning": "大皿料理",
+    "level": 6
+  },
+  {
+    "id": 3054,
+    "word": "irritation",
+    "meaning": "炎症",
+    "level": 6
+  },
+  {
+    "id": 3055,
+    "word": "apply to",
+    "meaning": "塗る",
+    "level": 6
+  },
+  {
+    "id": 3056,
+    "word": "cracked",
+    "meaning": "ひびが入っている",
+    "level": 6
+  },
+  {
+    "id": 3057,
+    "word": "spokesperson",
+    "meaning": "広告担当者",
+    "level": 6
+  },
+  {
+    "id": 3058,
+    "word": "optimal",
+    "meaning": "最適な",
+    "level": 6
+  },
+  {
+    "id": 3059,
+    "word": "appliance",
+    "meaning": "器具",
+    "level": 6
+  },
+  {
+    "id": 3060,
+    "word": "commercial",
+    "meaning": "市販の",
+    "level": 6
+  },
+  {
+    "id": 3061,
+    "word": "cleaning solution",
+    "meaning": "洗浄液",
+    "level": 6
+  },
+  {
+    "id": 3062,
+    "word": "reservoir",
+    "meaning": "給水タンク",
+    "level": 6
+  },
+  {
+    "id": 3063,
+    "word": "residue",
+    "meaning": "残留物",
+    "level": 6
+  },
+  {
+    "id": 3064,
+    "word": "implement",
+    "meaning": "実現する・道具",
+    "level": 6
+  },
+  {
+    "id": 3065,
+    "word": "time frame",
+    "meaning": "時間内",
+    "level": 6
+  },
+  {
+    "id": 3066,
+    "word": "going forward",
+    "meaning": "これから",
+    "level": 6
+  },
+  {
+    "id": 3067,
+    "word": "designate",
+    "meaning": "指定する",
+    "level": 6
+  },
+  {
+    "id": 3068,
+    "word": "jeopadize",
+    "meaning": "危うくする",
+    "level": 6
+  },
+  {
+    "id": 3069,
+    "word": "obligation",
+    "meaning": "責務",
+    "level": 6
+  },
+  {
+    "id": 3070,
+    "word": "stay",
+    "meaning": "芯・支え",
+    "level": 6
+  },
+  {
+    "id": 3071,
+    "word": "strip",
+    "meaning": "細長い一片",
+    "level": 6
+  },
+  {
+    "id": 3072,
+    "word": "crisp",
+    "meaning": "ぱりっとした",
+    "level": 6
+  },
+  {
+    "id": 3073,
+    "word": "tab",
+    "meaning": "服の垂れ飾り",
+    "level": 6
+  },
+  {
+    "id": 3074,
+    "word": "stiffener",
+    "meaning": "補強するもの・芯",
+    "level": 6
+  },
+  {
+    "id": 3075,
+    "word": "glue",
+    "meaning": "接着剤でつける",
+    "level": 6
+  },
+  {
+    "id": 3076,
+    "word": "fkimsy",
+    "meaning": "もろい",
+    "level": 6
+  },
+  {
+    "id": 3077,
+    "word": "assort",
+    "meaning": "仕分ける",
+    "level": 6
+  },
+  {
+    "id": 3078,
+    "word": "carry",
+    "meaning": "取り扱う",
+    "level": 6
+  },
+  {
+    "id": 3079,
+    "word": "deluxe",
+    "meaning": "高級な",
+    "level": 6
+  },
+  {
+    "id": 3080,
+    "word": "brass",
+    "meaning": "真鍮",
+    "level": 6
+  },
+  {
+    "id": 3081,
+    "word": "consevancy",
+    "meaning": "保護",
+    "level": 6
+  },
+  {
+    "id": 3082,
+    "word": "interoffice",
+    "meaning": "社内の",
+    "level": 6
+  },
+  {
+    "id": 3083,
+    "word": "sealed",
+    "meaning": "封をした",
+    "level": 6
+  },
+  {
+    "id": 3084,
+    "word": "envelope",
+    "meaning": "封筒",
+    "level": 6
+  },
+  {
+    "id": 3085,
+    "word": "check with",
+    "meaning": "相談する",
+    "level": 6
+  },
+  {
+    "id": 3086,
+    "word": "stain ",
+    "meaning": "染色する",
+    "level": 6
+  },
+  {
+    "id": 3087,
+    "word": "finish ",
+    "meaning": "仕上げ",
+    "level": 6
+  },
+  {
+    "id": 3088,
+    "word": "grain",
+    "meaning": "木目",
+    "level": 6
+  },
+  {
+    "id": 3089,
+    "word": "pattern ",
+    "meaning": "模様",
+    "level": 6
+  },
+  {
+    "id": 3090,
+    "word": "scratch",
+    "meaning": "傷",
+    "level": 6
+  },
+  {
+    "id": 3091,
+    "word": "carve",
+    "meaning": "彫る",
+    "level": 6
+  },
+  {
+    "id": 3092,
+    "word": "urgency",
+    "meaning": "緊急性",
+    "level": 6
+  },
+  {
+    "id": 3093,
+    "word": "take a precaution",
+    "meaning": "予防策を講じる",
+    "level": 6
+  },
+  {
+    "id": 3094,
+    "word": "duration",
+    "meaning": "期限・感覚",
+    "level": 6
+  },
+  {
+    "id": 3095,
+    "word": "packing slip",
+    "meaning": "梱包表",
+    "level": 6
+  },
+  {
+    "id": 3096,
+    "word": "inadvertently",
+    "meaning": "うっかり",
+    "level": 6
+  },
+  {
+    "id": 3097,
+    "word": "sticker",
+    "meaning": "シール",
+    "level": 6
+  },
+  {
+    "id": 3098,
+    "word": "spot",
+    "meaning": "気づく",
+    "level": 6
+  },
+  {
+    "id": 3099,
+    "word": "affix",
+    "meaning": "貼る",
+    "level": 6
+  },
+  {
+    "id": 3100,
+    "word": "coalition",
+    "meaning": "連合会",
+    "level": 6
+  },
+  {
+    "id": 3101,
+    "word": "tote",
+    "meaning": "手提げバック",
+    "level": 6
+  },
+  {
+    "id": 3102,
+    "word": "eatery",
+    "meaning": "レストラン",
+    "level": 6
+  },
+  {
+    "id": 3103,
+    "word": "suite",
+    "meaning": "一続きの部屋",
+    "level": 6
+  },
+  {
+    "id": 3104,
+    "word": "throughout",
+    "meaning": "の至る所に",
+    "level": 6
+  },
+  {
+    "id": 3105,
+    "word": "break room",
+    "meaning": "休憩室",
+    "level": 6
+  },
+  {
+    "id": 3106,
+    "word": "cubicle",
+    "meaning": "作業区画",
+    "level": 6
+  },
+  {
+    "id": 3107,
+    "word": "attachment",
+    "meaning": "添付ファイル",
+    "level": 6
+  },
+  {
+    "id": 3108,
+    "word": "dine out",
+    "meaning": "外食する",
+    "level": 6
+  },
+  {
+    "id": 3109,
+    "word": "top a with b",
+    "meaning": "aにbを乗せる",
+    "level": 6
+  },
+  {
+    "id": 3110,
+    "word": "fluctuate",
+    "meaning": "変動する",
+    "level": 6
+  },
+  {
+    "id": 3111,
+    "word": "revenue",
+    "meaning": "収益",
+    "level": 6
+  },
+  {
+    "id": 3112,
+    "word": "vice ",
+    "meaning": "副",
+    "level": 6
   }
 ]
