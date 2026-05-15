@@ -1,0 +1,1166 @@
+[
+  {
+    "id": 701,
+    "word": "lumber",
+    "meaning": "材木，製材",
+    "level": 3
+  },
+  {
+    "id": 702,
+    "word": "reverse",
+    "meaning": "反対の",
+    "level": 3
+  },
+  {
+    "id": 703,
+    "word": "voluntary",
+    "meaning": "自主的な，任意の",
+    "level": 3
+  },
+  {
+    "id": 704,
+    "word": "contractor",
+    "meaning": "請負業者，契約業者",
+    "level": 3
+  },
+  {
+    "id": 705,
+    "word": "on-site",
+    "meaning": "社内の，その場で",
+    "level": 3
+  },
+  {
+    "id": 706,
+    "word": "comprehensive",
+    "meaning": "総合的な，包括的な",
+    "level": 3
+  },
+  {
+    "id": 707,
+    "word": "confidential",
+    "meaning": "機密の",
+    "level": 3
+  },
+  {
+    "id": 708,
+    "word": "expertise",
+    "meaning": "専門知識",
+    "level": 3
+  },
+  {
+    "id": 709,
+    "word": "premier",
+    "meaning": "最高の",
+    "level": 3
+  },
+  {
+    "id": 710,
+    "word": "souvenir",
+    "meaning": "土産物",
+    "level": 3
+  },
+  {
+    "id": 711,
+    "word": "rafting",
+    "meaning": "川下り",
+    "level": 3
+  },
+  {
+    "id": 712,
+    "word": "compartment",
+    "meaning": "一区画",
+    "level": 3
+  },
+  {
+    "id": 713,
+    "word": "fabric",
+    "meaning": "生地、織物",
+    "level": 3
+  },
+  {
+    "id": 714,
+    "word": "spacious",
+    "meaning": "広々とした",
+    "level": 3
+  },
+  {
+    "id": 715,
+    "word": "upgrade",
+    "meaning": "改良",
+    "level": 3
+  },
+  {
+    "id": 716,
+    "word": "showcase",
+    "meaning": "披露する",
+    "level": 3
+  },
+  {
+    "id": 717,
+    "word": "commuter",
+    "meaning": "通勤者",
+    "level": 3
+  },
+  {
+    "id": 718,
+    "word": "enhance",
+    "meaning": "向上させる",
+    "level": 3
+  },
+  {
+    "id": 719,
+    "word": "freight",
+    "meaning": "貨物，輸送する",
+    "level": 3
+  },
+  {
+    "id": 720,
+    "word": "nominate",
+    "meaning": "推薦する",
+    "level": 3
+  },
+  {
+    "id": 721,
+    "word": "discontinued",
+    "meaning": "終了した",
+    "level": 3
+  },
+  {
+    "id": 722,
+    "word": "mentoring",
+    "meaning": "メンター制度",
+    "level": 3
+  },
+  {
+    "id": 723,
+    "word": "personalized",
+    "meaning": "個人に合わせた",
+    "level": 3
+  },
+  {
+    "id": 724,
+    "word": "pharmacy",
+    "meaning": "薬局",
+    "level": 3
+  },
+  {
+    "id": 725,
+    "word": "excerpt",
+    "meaning": "抜粋，引用",
+    "level": 3
+  },
+  {
+    "id": 726,
+    "word": "publicize",
+    "meaning": "宣伝する",
+    "level": 3
+  },
+  {
+    "id": 727,
+    "word": "tuition",
+    "meaning": "授業料",
+    "level": 3
+  },
+  {
+    "id": 728,
+    "word": "compliance",
+    "meaning": "順守",
+    "level": 3
+  },
+  {
+    "id": 729,
+    "word": "clarify",
+    "meaning": "明確にする",
+    "level": 3
+  },
+  {
+    "id": 730,
+    "word": "municipal",
+    "meaning": "市営の",
+    "level": 3
+  },
+  {
+    "id": 1001,
+    "word": "leave A on B",
+    "meaning": "AをBに置いていく",
+    "level": 4
+  },
+  {
+    "id": 1002,
+    "word": "console",
+    "meaning": "ゲーム機",
+    "level": 4
+  },
+  {
+    "id": 1003,
+    "word": "remsemble",
+    "meaning": "似ている",
+    "level": 4
+  },
+  {
+    "id": 1004,
+    "word": "transfer",
+    "meaning": "振り込み",
+    "level": 4
+  },
+  {
+    "id": 1005,
+    "word": "furnace",
+    "meaning": "暖房炉",
+    "level": 4
+  },
+  {
+    "id": 1006,
+    "word": "besides",
+    "meaning": "に加えて",
+    "level": 4
+  },
+  {
+    "id": 1007,
+    "word": "Ltd",
+    "meaning": "limited 有限会社",
+    "level": 4
+  },
+  {
+    "id": 1008,
+    "word": "traffic ",
+    "meaning": "交通",
+    "level": 4
+  },
+  {
+    "id": 1009,
+    "word": "broadly",
+    "meaning": "大まかに",
+    "level": 4
+  },
+  {
+    "id": 1010,
+    "word": "searchingly",
+    "meaning": "鋭く",
+    "level": 4
+  },
+  {
+    "id": 1011,
+    "word": "newsletter",
+    "meaning": "社報",
+    "level": 4
+  },
+  {
+    "id": 1012,
+    "word": "accomplishment",
+    "meaning": "業績",
+    "level": 4
+  },
+  {
+    "id": 1013,
+    "word": "preferred",
+    "meaning": "優先",
+    "level": 4
+  },
+  {
+    "id": 1014,
+    "word": "as if",
+    "meaning": "あたかも〜のように",
+    "level": 4
+  },
+  {
+    "id": 1015,
+    "word": "even so",
+    "meaning": "たとえそうでも",
+    "level": 4
+  },
+  {
+    "id": 1016,
+    "word": "upcoming",
+    "meaning": "今度の",
+    "level": 4
+  },
+  {
+    "id": 1017,
+    "word": "prevailing",
+    "meaning": "流行の",
+    "level": 4
+  },
+  {
+    "id": 1018,
+    "word": "feature",
+    "meaning": "を特色とする",
+    "level": 4
+  },
+  {
+    "id": 1019,
+    "word": "condition",
+    "meaning": "条件つける",
+    "level": 4
+  },
+  {
+    "id": 1020,
+    "word": "conditional",
+    "meaning": "条件付きの",
+    "level": 4
+  },
+  {
+    "id": 1021,
+    "word": "promote P to A",
+    "meaning": "PをAに昇進する",
+    "level": 4
+  },
+  {
+    "id": 1022,
+    "word": "sales-associate",
+    "meaning": "販売員の",
+    "level": 4
+  },
+  {
+    "id": 1023,
+    "word": "Since S, S'",
+    "meaning": "Sなので",
+    "level": 4
+  },
+  {
+    "id": 1024,
+    "word": "caring",
+    "meaning": "思いやりのある",
+    "level": 4
+  },
+  {
+    "id": 1025,
+    "word": "contribute N to A",
+    "meaning": "NだけAに寄与（貢献）する",
+    "level": 4
+  },
+  {
+    "id": 1026,
+    "word": "track",
+    "meaning": "追跡",
+    "level": 4
+  },
+  {
+    "id": 1027,
+    "word": "truck",
+    "meaning": "トラック・線路",
+    "level": 4
+  },
+  {
+    "id": 1028,
+    "word": "coastal",
+    "meaning": "海岸の",
+    "level": 4
+  },
+  {
+    "id": 1029,
+    "word": "council",
+    "meaning": "議会",
+    "level": 4
+  },
+  {
+    "id": 1030,
+    "word": "convert A to B",
+    "meaning": "AをBに変換する",
+    "level": 4
+  },
+  {
+    "id": 1031,
+    "word": "wisely",
+    "meaning": "賢く",
+    "level": 4
+  },
+  {
+    "id": 1032,
+    "word": "entirely",
+    "meaning": "すっかり",
+    "level": 4
+  },
+  {
+    "id": 1033,
+    "word": "archivist",
+    "meaning": "文書局員",
+    "level": 4
+  },
+  {
+    "id": 1034,
+    "word": "curator",
+    "meaning": "学芸員",
+    "level": 4
+  },
+  {
+    "id": 1035,
+    "word": "plausible",
+    "meaning": "もっともらしい",
+    "level": 4
+  },
+  {
+    "id": 1036,
+    "word": "relieve",
+    "meaning": "和らげる",
+    "level": 4
+  },
+  {
+    "id": 1037,
+    "word": "modify",
+    "meaning": "改変する",
+    "level": 4
+  },
+  {
+    "id": 1038,
+    "word": "warranty",
+    "meaning": "保証",
+    "level": 4
+  },
+  {
+    "id": 1039,
+    "word": "collared",
+    "meaning": "襟付き",
+    "level": 4
+  },
+  {
+    "id": 1040,
+    "word": "authorize",
+    "meaning": "許可する",
+    "level": 4
+  },
+  {
+    "id": 1041,
+    "word": "proseed",
+    "meaning": "進む",
+    "level": 4
+  },
+  {
+    "id": 1042,
+    "word": "mine",
+    "meaning": "鉱山",
+    "level": 4
+  },
+  {
+    "id": 1043,
+    "word": "stationer",
+    "meaning": "文房具店",
+    "level": 4
+  },
+  {
+    "id": 1044,
+    "word": "business card",
+    "meaning": "名刺",
+    "level": 4
+  },
+  {
+    "id": 1045,
+    "word": "agenda",
+    "meaning": "議題",
+    "level": 4
+  },
+  {
+    "id": 1046,
+    "word": "intent",
+    "meaning": "意図",
+    "level": 4
+  },
+  {
+    "id": 1047,
+    "word": "tendency",
+    "meaning": "傾向",
+    "level": 4
+  },
+  {
+    "id": 1048,
+    "word": "fund-raiser",
+    "meaning": "資金集めのイベント",
+    "level": 4
+  },
+  {
+    "id": 1049,
+    "word": "township",
+    "meaning": "郡区",
+    "level": 4
+  },
+  {
+    "id": 1050,
+    "word": "authority",
+    "meaning": "局",
+    "level": 4
+  },
+  {
+    "id": 1051,
+    "word": "board",
+    "meaning": "委員会",
+    "level": 4
+  },
+  {
+    "id": 1052,
+    "word": "oversight",
+    "meaning": "監視，監督",
+    "level": 4
+  },
+  {
+    "id": 1053,
+    "word": "vacancy",
+    "meaning": "欠員",
+    "level": 4
+  },
+  {
+    "id": 1054,
+    "word": "oversee",
+    "meaning": "監視する",
+    "level": 4
+  },
+  {
+    "id": 1055,
+    "word": "Note that ~",
+    "meaning": "~ に注意しなさい",
+    "level": 4
+  },
+  {
+    "id": 1056,
+    "word": "on behalf of ~ ",
+    "meaning": "~ を代表して",
+    "level": 4
+  },
+  {
+    "id": 1057,
+    "word": "inquiry",
+    "meaning": "問い合わせ",
+    "level": 4
+  },
+  {
+    "id": 1058,
+    "word": "quote",
+    "meaning": "見積もり",
+    "level": 4
+  },
+  {
+    "id": 1059,
+    "word": "auto insurance",
+    "meaning": "自動車保険",
+    "level": 4
+  },
+  {
+    "id": 1060,
+    "word": "registration",
+    "meaning": "登録",
+    "level": 4
+  },
+  {
+    "id": 1061,
+    "word": "credit",
+    "meaning": "入金する　信用する",
+    "level": 4
+  },
+  {
+    "id": 1062,
+    "word": "plant",
+    "meaning": "工場",
+    "level": 4
+  },
+  {
+    "id": 1063,
+    "word": "nationwide",
+    "meaning": "全国的に",
+    "level": 4
+  },
+  {
+    "id": 1064,
+    "word": "both parties",
+    "meaning": "両者",
+    "level": 4
+  },
+  {
+    "id": 2001,
+    "word": "corporation",
+    "meaning": "企業",
+    "level": 5
+  },
+  {
+    "id": 2002,
+    "word": "competitive",
+    "meaning": "競争力のある",
+    "level": 5
+  },
+  {
+    "id": 2003,
+    "word": "post ",
+    "meaning": "掲載する",
+    "level": 5
+  },
+  {
+    "id": 2004,
+    "word": "sign up",
+    "meaning": "登録する",
+    "level": 5
+  },
+  {
+    "id": 2005,
+    "word": "habitation",
+    "meaning": "移住地",
+    "level": 5
+  },
+  {
+    "id": 2006,
+    "word": "be excited about ",
+    "meaning": "にワクワクする",
+    "level": 5
+  },
+  {
+    "id": 2007,
+    "word": "familiarize P",
+    "meaning": "Pに精通させる",
+    "level": 5
+  },
+  {
+    "id": 2008,
+    "word": "be familiar with",
+    "meaning": "よく知っている",
+    "level": 5
+  },
+  {
+    "id": 2009,
+    "word": "sales figures",
+    "meaning": "売上高",
+    "level": 5
+  },
+  {
+    "id": 2010,
+    "word": "profitability",
+    "meaning": "利益",
+    "level": 5
+  },
+  {
+    "id": 2011,
+    "word": "appoint",
+    "meaning": "任命する",
+    "level": 5
+  },
+  {
+    "id": 2012,
+    "word": "resign",
+    "meaning": "辞任する",
+    "level": 5
+  },
+  {
+    "id": 2013,
+    "word": "anticipate",
+    "meaning": "予想する",
+    "level": 5
+  },
+  {
+    "id": 2014,
+    "word": "division",
+    "meaning": "分野",
+    "level": 5
+  },
+  {
+    "id": 2015,
+    "word": "approve",
+    "meaning": "承認する",
+    "level": 5
+  },
+  {
+    "id": 2016,
+    "word": "legislation",
+    "meaning": "法律",
+    "level": 5
+  },
+  {
+    "id": 2017,
+    "word": "appearance",
+    "meaning": "外見",
+    "level": 5
+  },
+  {
+    "id": 2018,
+    "word": "contractor",
+    "meaning": "請負業者",
+    "level": 5
+  },
+  {
+    "id": 2019,
+    "word": "in light of",
+    "meaning": "考慮して",
+    "level": 5
+  },
+  {
+    "id": 2020,
+    "word": "workforce",
+    "meaning": "労働力",
+    "level": 5
+  },
+  {
+    "id": 2021,
+    "word": "specialize in ",
+    "meaning": "専門とする",
+    "level": 5
+  },
+  {
+    "id": 2022,
+    "word": "press conference",
+    "meaning": "記者会見",
+    "level": 5
+  },
+  {
+    "id": 2023,
+    "word": "demonstration",
+    "meaning": "実演",
+    "level": 5
+  },
+  {
+    "id": 2024,
+    "word": "substitute",
+    "meaning": "代役",
+    "level": 5
+  },
+  {
+    "id": 2025,
+    "word": "substitution",
+    "meaning": "置換",
+    "level": 5
+  },
+  {
+    "id": 2026,
+    "word": "situate",
+    "meaning": "位置する",
+    "level": 5
+  },
+  {
+    "id": 2027,
+    "word": "change hands",
+    "meaning": "所有者が変わる",
+    "level": 5
+  },
+  {
+    "id": 2028,
+    "word": "negotiation",
+    "meaning": "交渉",
+    "level": 5
+  },
+  {
+    "id": 2029,
+    "word": "pointless",
+    "meaning": "無意味な",
+    "level": 5
+  },
+  {
+    "id": 2030,
+    "word": "critic",
+    "meaning": "評論家",
+    "level": 5
+  },
+  {
+    "id": 2031,
+    "word": "box office",
+    "meaning": "映画・チケット売り場",
+    "level": 5
+  },
+  {
+    "id": 2032,
+    "word": "expedite",
+    "meaning": "急ぐ",
+    "level": 5
+  },
+  {
+    "id": 2033,
+    "word": "outstanding",
+    "meaning": "並外れた・未",
+    "level": 5
+  },
+  {
+    "id": 2034,
+    "word": "require",
+    "meaning": "要求する・義務化する",
+    "level": 5
+  },
+  {
+    "id": 2035,
+    "word": "job applications",
+    "meaning": "求人応募書類",
+    "level": 5
+  },
+  {
+    "id": 2036,
+    "word": "resume",
+    "meaning": "履歴書　再開する",
+    "level": 5
+  },
+  {
+    "id": 2037,
+    "word": "disruption",
+    "meaning": "混乱・遮断",
+    "level": 5
+  },
+  {
+    "id": 2038,
+    "word": "supplie",
+    "meaning": "用品・需要",
+    "level": 5
+  },
+  {
+    "id": 2039,
+    "word": "inquire about",
+    "meaning": "尋ねる",
+    "level": 5
+  },
+  {
+    "id": 2040,
+    "word": "leave of absence",
+    "meaning": "休暇",
+    "level": 5
+  },
+  {
+    "id": 2041,
+    "word": "publication",
+    "meaning": "出版物",
+    "level": 5
+  },
+  {
+    "id": 2042,
+    "word": "stringent",
+    "meaning": "厳しい",
+    "level": 5
+  },
+  {
+    "id": 2043,
+    "word": "inventory",
+    "meaning": "在庫",
+    "level": 5
+  },
+  {
+    "id": 2044,
+    "word": "in terms of",
+    "meaning": "に関して",
+    "level": 5
+  },
+  {
+    "id": 2045,
+    "word": "yet ",
+    "meaning": "だが　等位接続詞",
+    "level": 5
+  },
+  {
+    "id": 2046,
+    "word": "intriguing",
+    "meaning": "興味深い",
+    "level": 5
+  },
+  {
+    "id": 2047,
+    "word": "S draw P to A",
+    "meaning": "sがPをAに惹きつける",
+    "level": 5
+  },
+  {
+    "id": 2048,
+    "word": "restoration",
+    "meaning": "復元　修復",
+    "level": 5
+  },
+  {
+    "id": 2049,
+    "word": "swift",
+    "meaning": "迅速な",
+    "level": 5
+  },
+  {
+    "id": 2050,
+    "word": "run out",
+    "meaning": "時間がない",
+    "level": 5
+  },
+  {
+    "id": 2051,
+    "word": "pastry",
+    "meaning": "焼き菓子",
+    "level": 5
+  },
+  {
+    "id": 2052,
+    "word": "be instrumental in",
+    "meaning": "重要な役割を果たす",
+    "level": 5
+  },
+  {
+    "id": 2053,
+    "word": "under the direction",
+    "meaning": "指示の下で",
+    "level": 5
+  },
+  {
+    "id": 2054,
+    "word": "subordinate",
+    "meaning": "部下",
+    "level": 5
+  },
+  {
+    "id": 3001,
+    "word": "be subjected to ",
+    "meaning": "の対象になる",
+    "level": 5
+  },
+  {
+    "id": 3002,
+    "word": "turnover",
+    "meaning": "離職率",
+    "level": 6
+  },
+  {
+    "id": 3003,
+    "word": "reimbursement",
+    "meaning": "経費の精算",
+    "level": 6
+  },
+  {
+    "id": 3004,
+    "word": "stews",
+    "meaning": "シチュー",
+    "level": 6
+  },
+  {
+    "id": 3005,
+    "word": "serious",
+    "meaning": "真剣な",
+    "level": 6
+  },
+  {
+    "id": 3006,
+    "word": "merger",
+    "meaning": "合併",
+    "level": 6
+  },
+  {
+    "id": 3007,
+    "word": "ship",
+    "meaning": "輸送する",
+    "level": 6
+  },
+  {
+    "id": 3008,
+    "word": "domestic",
+    "meaning": "国内の・家庭の",
+    "level": 6
+  },
+  {
+    "id": 3009,
+    "word": "workshop",
+    "meaning": "講演会",
+    "level": 6
+  },
+  {
+    "id": 3010,
+    "word": "workstation",
+    "meaning": "作業場所",
+    "level": 6
+  },
+  {
+    "id": 3011,
+    "word": "facilitate",
+    "meaning": "容易にする",
+    "level": 6
+  },
+  {
+    "id": 3012,
+    "word": "distract",
+    "meaning": "気を散らす",
+    "level": 6
+  },
+  {
+    "id": 3013,
+    "word": "overview",
+    "meaning": "概要",
+    "level": 6
+  },
+  {
+    "id": 3014,
+    "word": "pharmacy",
+    "meaning": "薬学",
+    "level": 6
+  },
+  {
+    "id": 3015,
+    "word": "collages",
+    "meaning": "コラージュ　切取写真貼付",
+    "level": 6
+  },
+  {
+    "id": 3016,
+    "word": "power outage",
+    "meaning": "停電",
+    "level": 6
+  },
+  {
+    "id": 3017,
+    "word": "invest",
+    "meaning": "投資する",
+    "level": 6
+  },
+  {
+    "id": 3018,
+    "word": "directors",
+    "meaning": "取締役",
+    "level": 6
+  },
+  {
+    "id": 3019,
+    "word": "await",
+    "meaning": "待つ",
+    "level": 6
+  },
+  {
+    "id": 3020,
+    "word": "shareholder",
+    "meaning": "株主",
+    "level": 6
+  },
+  {
+    "id": 3021,
+    "word": "properties",
+    "meaning": "不動産",
+    "level": 6
+  },
+  {
+    "id": 3022,
+    "word": "revision",
+    "meaning": "改訂",
+    "level": 6
+  },
+  {
+    "id": 3023,
+    "word": "erosion",
+    "meaning": "土壌侵食",
+    "level": 6
+  },
+  {
+    "id": 3024,
+    "word": "geologist",
+    "meaning": "地質学者",
+    "level": 6
+  },
+  {
+    "id": 3025,
+    "word": "absorp",
+    "meaning": "吸収する",
+    "level": 6
+  },
+  {
+    "id": 3026,
+    "word": "delegation",
+    "meaning": "代表団",
+    "level": 6
+  },
+  {
+    "id": 3027,
+    "word": "refreshments",
+    "meaning": "軽食",
+    "level": 6
+  },
+  {
+    "id": 3028,
+    "word": "auditorium",
+    "meaning": "講堂",
+    "level": 6
+  },
+  {
+    "id": 3029,
+    "word": "inspect",
+    "meaning": "点検する",
+    "level": 6
+  },
+  {
+    "id": 3030,
+    "word": "periodic",
+    "meaning": "定期的な",
+    "level": 6
+  },
+  {
+    "id": 3031,
+    "word": "abbembly",
+    "meaning": "組み立て",
+    "level": 6
+  },
+  {
+    "id": 3032,
+    "word": "policy",
+    "meaning": "方針",
+    "level": 6
+  },
+  {
+    "id": 3033,
+    "word": "evenly",
+    "meaning": "平等に",
+    "level": 6
+  },
+  {
+    "id": 3034,
+    "word": "evergreens",
+    "meaning": "常緑樹",
+    "level": 6
+  },
+  {
+    "id": 3035,
+    "word": "tolerate",
+    "meaning": "耐える",
+    "level": 6
+  },
+  {
+    "id": 3036,
+    "word": "abundant",
+    "meaning": "豊富な",
+    "level": 6
+  },
+  {
+    "id": 3037,
+    "word": "drought-prone",
+    "meaning": "渇水のなりやすい",
+    "level": 6
+  },
+  {
+    "id": 3038,
+    "word": "crisis",
+    "meaning": "危機",
+    "level": 6
+  },
+  {
+    "id": 3039,
+    "word": "insight",
+    "meaning": "洞察",
+    "level": 6
+  },
+  {
+    "id": 3040,
+    "word": "discard",
+    "meaning": "処分する",
+    "level": 6
+  },
+  {
+    "id": 3041,
+    "word": "claim",
+    "meaning": "請求・クレーム",
+    "level": 6
+  },
+  {
+    "id": 3042,
+    "word": "inquiry",
+    "meaning": "問い合わせ",
+    "level": 6
+  },
+  {
+    "id": 3043,
+    "word": "involve",
+    "meaning": "含める",
+    "level": 6
+  },
+  {
+    "id": 3044,
+    "word": "direct to",
+    "meaning": "に直接",
+    "level": 6
+  },
+  {
+    "id": 3045,
+    "word": "institute",
+    "meaning": "制定する",
+    "level": 6
+  },
+  {
+    "id": 3046,
+    "word": "attire",
+    "meaning": "服装",
+    "level": 6
+  }
+]
